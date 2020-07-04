@@ -1,0 +1,6 @@
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+sns.distplot([20,25,40,95,120])
+
+plt.show()
